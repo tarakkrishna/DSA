@@ -1,0 +1,31 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore logs and database files
+*.log
+*.sqlite3
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore test cache
+.pytest_cache/
+
+# Ignore environment variable files
+.env
