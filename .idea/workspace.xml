@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54f379d7-b1dc-47be-b379-0bce5a3b1569" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/2Pointer_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/First_last_indexs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Frequency_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Replace_target.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/duplicate_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/linear_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/longest_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/min_max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/odd_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/reverse_oddnums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Frequency_count.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.doubt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rough.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Frequency_count.executor": "Run",
+    "Python.arr.executor": "Run",
+    "Python.doubt.executor": "Run",
+    "Python.linear_search.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.rough.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tarak\PycharmProjects\DSA\Arrays" />
