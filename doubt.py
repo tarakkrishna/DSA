@@ -1,3 +1,7 @@
 x=[1,2,3]
-x[0]+=1
-print(x)
+k=1
+
+print(x[:k])
+print(x[k:])
+print(x[-k:])
+print(x[:-k])
