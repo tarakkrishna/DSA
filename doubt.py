@@ -1,7 +1,7 @@
-x=[1,2,3]
-k=1
-
-print(x[:k])
-print(x[k:])
-print(x[-k:])
-print(x[:-k])
+nums=[3,2,2,3]
+val=3
+arr = []
+for i in nums:
+    if i !=val:
+        arr.append(i)
+print(arr)
